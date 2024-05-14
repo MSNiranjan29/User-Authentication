@@ -26,6 +26,9 @@ Project Structure:
 
 The project is structured into Client and Server directories, with each containing the respective codebase. The frontend directory houses the React.js application, including components, and necessary css files. The backend directory contains the Node.js and Express.js server code, along with database configurations and API routes.
 
+Technology Used:
+The project uses technology from the MERN which stands for MongoDB, Express.js, React.js, Node.js.
+
 Conclusion:
 
 The user authentication system provides a comprehensive solution for managing user accounts and ensuring secure access to protected resources. By leveraging the MERN stack and adhering to best practices for security and user experience, the system offers a robust and reliable authentication mechanism for web applications.
