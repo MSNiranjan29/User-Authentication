@@ -24,7 +24,7 @@ Security Measures: Best practices for security and data protection are followed 
 
 Project Structure:
 
-The project is structured into frontend and backend directories, with each containing the respective codebase. The frontend directory houses the React.js application, including components, routes, and assets. The backend directory contains the Node.js and Express.js server code, along with database configurations and API routes.
+The project is structured into Client and Server directories, with each containing the respective codebase. The frontend directory houses the React.js application, including components, and necessary css files. The backend directory contains the Node.js and Express.js server code, along with database configurations and API routes.
 
 Conclusion:
 
